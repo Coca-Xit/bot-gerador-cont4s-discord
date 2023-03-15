@@ -1,0 +1,16 @@
+{
+    "token": "",
+    "prefix": "h!",
+    "canal": "1054222435928522803",
+    "cooldown": "100",
+    
+    "subtitulo": "Hoxton Gen Pago",
+    "color": "ff0000",
+    "banner": "https://cdn.discordapp.com/attachments/932770001558069338/932977276214214696/20220118_093650.png",
+    "thumbnail": "https://cdn.discordapp.com/attachments/932770001558069338/932977276214214696/20220118_093650.png",
+    
+    "command": {
+    "notfound_message": true,
+    "error_message": true
+    }
+}
